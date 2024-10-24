@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shreya!
+### I'm Passionate about AI and Reinforcement Learning!
 
-<!--
-**ShreyaKunda/ShreyaKunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/ShreyaKunda?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ShreyaKunda?style=social)
 
-Here are some ideas to get you started:
+### ⚙️ Tech Stack:
+- **Languages:** Python, SQL
+- **Areas of Expertise:** Deep Learning, Machine Learning, Reinforcement Learning, Big Data, Natural Language Processing
+- **Currently Learning:** AWS Cloud, Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects:
+- [Bridging the Modality Gap for MRI Image Translation](https://github.com/ShreyaKunda/Bridging-the-Modality-Gap-Generative-Adversarial-Networks-for-T1-T2-MRI-Image-Translation) - An advanced approach using GANs to bridge modality gaps.
+- [Autonomous Racing Cars Using DQN](https://github.com/ShreyaKunda/Autonomous-Racing-Cars-Using-Deep-Q-Learning-A-Comparative-Study-of-Reward-Systems) - Deep Q-Learning for autonomous vehicle control.
+
+![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaKunda&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKunda&layout=compact&theme=tokyonight)
+
+### Connect with me:
+- [LinkedIn](https://linkedin.com/in/shreya-kunda)
+
+<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="400" alt="coding">

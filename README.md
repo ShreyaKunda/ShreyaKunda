@@ -1,11 +1,12 @@
 ### About Me  
+<p align="justify">
 Focused on building intelligent systems using **Machine Learning, Deep Learning, and Reinforcement Learning**.  
 Research interests include **Agentic AI, RAG (Retrieval-Augmented Generation), NLP, and Deep Reinforcement Learning**.  
 Dedicated to developing impactful and scalable **AI-driven solutions**, actively exploring real-world applications of Artificial Intelligence through continuous learning and experimentation.  
-
+</p>
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 
 **Programming Languages**  
 <p>
@@ -37,8 +38,7 @@ Dedicated to developing impactful and scalable **AI-driven solutions**, actively
 
 ---
 
-###  Connect With Me  
-[GitHub Profile](https://github.com/ShreyaKunda)  
-[LinkedIn](https://www.linkedin.com/in/naga-sai-shreya-kunda/)  
+###  Connect With Me   
+[LinkedIn](www.linkedin.com/in/shreya-kunda)  
 
 ---

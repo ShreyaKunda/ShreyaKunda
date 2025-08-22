@@ -4,7 +4,7 @@ Focused on building intelligent systems using **Machine Learning, Deep Learning,
 Research interests include **Agentic AI, RAG (Retrieval-Augmented Generation), NLP, and Deep Reinforcement Learning**.  
 Dedicated to developing impactful and scalable **AI-driven solutions**, actively exploring real-world applications of Artificial Intelligence through continuous learning and experimentation.  
 </p>
----
+
 
 ### Tech Stack  
 

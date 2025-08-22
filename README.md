@@ -38,7 +38,5 @@ Dedicated to developing impactful and scalable AI-driven solutions, actively exp
 
 ---
 
-###  Connect With Me   
-[LinkedIn](www.linkedin.com/in/shreya-kunda)  
 
 ---
